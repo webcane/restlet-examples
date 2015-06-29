@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>cane.brothers.restlet</groupId>
+  <artifactId>restlet-demo-text</artifactId>
+  <version>1.0</version>
+  <name>restlet demo</name>
+  <description>restlet text-plan demo</description>
+  <properties>
+  	<version.lib.restlet>2.3.3</version.lib.restlet>
+  </properties>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.restlet.jse</groupId>
+  		<artifactId>org.restlet</artifactId>
+  		<version>${version.lib.restlet}</version>
+  	</dependency>
+  </dependencies>
+</project>
