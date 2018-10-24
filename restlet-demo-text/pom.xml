@@ -6,7 +6,7 @@
   <name>restlet demo</name>
   <description>restlet text-plan demo</description>
   <properties>
-  	<version.lib.restlet>2.3.3</version.lib.restlet>
+  	<version.lib.restlet>2.3.11</version.lib.restlet>
   </properties>
   <dependencies>
   	<dependency>
